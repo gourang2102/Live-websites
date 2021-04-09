@@ -1,6 +1,6 @@
 # Live-websites
-www.delicieuxfoodbox.com
+www.delicieuxfoodbox.com - my own startup company
 
-www.goldsikka.com
+www.goldsikka.com - client
 
-www.codemania.in
+www.dashnamgoswamimandal.com - slient
